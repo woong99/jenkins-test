@@ -29,4 +29,5 @@ jar {
     archiveBaseName.set('potato-mall')
     archiveVersion.set('')
     archiveClassifier.set('')
+    enabled= false
 }
