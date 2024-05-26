@@ -24,3 +24,9 @@ dependencies {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
+jar {
+    archiveBaseName.set('potato-mall')
+    archiveVersion.set('')
+    archiveClassifier.set('')
+}
