@@ -9,6 +9,6 @@ public class HealthCheckController {
 
     @GetMapping("/")
     public String healthCheck() {
-        return "I'm healthy!!!!!!!!123131212121111111!!!!!!!!!!!!!";
-    }
+        return "I'm healthy!!!!!!!!12313121233123123123123123123121231212121111111!!!!!!!!!!!!!";
+    }12123131312
 }
